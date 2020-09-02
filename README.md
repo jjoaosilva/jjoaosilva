@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![git](https://user-images.githubusercontent.com/16090350/92022163-3b29d880-ed31-11ea-8a90-aab7c6a0deea.png)
+
 <!--
 **jjoaosilva/jjoaosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
